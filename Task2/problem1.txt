@@ -1,0 +1,16 @@
+this program will allow user to check the number whether it is divisible by 3 or not
+
+Function Main
+    Declare Integer x, inp
+    Declare Real y
+    
+    Output "enter number to check whether it is div by 3or not"
+    Input inp
+    Assign y = inp/3
+    Assign x = inp/3
+    If x is equals to y
+        print true
+    else
+        print false
+    End
+End

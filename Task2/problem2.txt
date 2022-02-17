@@ -1,0 +1,19 @@
+this program is used to find the fibonacci number using position
+
+Function Main
+    Declare Integer a, b, c, i, inp
+    
+    Assign a = 0
+    Assign b = 1
+    Assign c = 1
+    print "enter position to find number in fibbonaci series:"
+    Input inp
+    For i from 1 to 45
+        If i equals to inp
+            print c
+        End
+        Assign c = a+b
+        Assign a = b
+        Assign b = c
+    End
+End
