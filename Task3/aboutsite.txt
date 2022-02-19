@@ -1,0 +1,2 @@
+This is a fitness based website
+I designed this site using figma
